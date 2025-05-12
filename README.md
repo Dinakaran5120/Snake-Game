@@ -8,7 +8,12 @@ A simple and fun implementation of the classic Snake game using HTML, CSS (style
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/ecc29e73-786f-4824-9f99-fe3e3da35713)
+
 ![image](https://github.com/user-attachments/assets/f61dbed1-23a9-46af-9c94-b832cb90b20d)
+
+![image](https://github.com/user-attachments/assets/37a8881d-5237-4406-833f-6e05bbc542d9)
+
 
 
 ## Technologies Used
