@@ -4,7 +4,7 @@ A simple and fun implementation of the classic Snake game using HTML, CSS (style
 
 ## Live Demo
 
-[Play the Snake Game!](https://dinakaran5120.github.io/snake-game-js/)
+[Play the Snake Game!](https://dinakaran5120.github.io/Snake-Game/)
 
 ## Screenshots
 
